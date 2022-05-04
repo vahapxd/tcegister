@@ -1,0 +1,30 @@
+{
+  "botToken": "OTcxNDgxOTEyMjEwMjU1ODgy.YnLJCQ.IFA27k-110uZoo7HA2pPEtQ2SBc",
+  "botOwner": "728931818182541392",
+  "botPrefix": ".",
+  "botVoiceChannel": "971482217333272576",
+  "botActivityName": "TC AİLESİ ❤️ Vahap",
+  "botActivityType": "WATCHING",
+  "botStatus": "idle",
+
+  "mongoConnectionLink": "mongodb+srv://rencia:Vahap2020@cluster0.jxyds.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+
+  "welcomeChannel": "971491713816358912",
+  "rulesChannel": "969998579403989082",
+  "Suspicious": "971482726265925692",
+  "Unregistered": "971482726265925692",
+
+
+  "FamilyRole": "969998554997346375",
+  "Tag": "T͜͡c٭",
+  "Untag": "T͜͡c٭",
+
+  "RegisterStaff": ["728931818182541392","715862073191694388"],
+  "ManRole": "971485638819971132", 
+  "WomanRole": "969998555727163443",
+  "BoosterRole": "971485882530004992",
+
+  "Yes": "✅",
+  "No": "❌"
+
+}
